@@ -1,0 +1,11 @@
+name: CI - continuos integration (integração continua)
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: instalando dependencias que existem no package.json
+      run: npm install
+    - name: executando os testes
+      run: npm test
