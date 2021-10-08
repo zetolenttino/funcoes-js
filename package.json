@@ -1,0 +1,23 @@
+{
+  "name": "funcoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zetolenttino/funcoes-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zetolenttino/funcoes-js/issues"
+  },
+  "homepage": "https://github.com/zetolenttino/funcoes-js#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
