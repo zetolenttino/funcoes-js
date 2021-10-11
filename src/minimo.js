@@ -1,4 +1,3 @@
-
 function minimo(a,b) {
     if (typeof a === 'number') {
         if (a < b) {

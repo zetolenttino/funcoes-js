@@ -1,4 +1,3 @@
-
 var minimo = require ('../src/minimo')
 
 describe('minimo',()=>{
@@ -7,8 +6,8 @@ describe('minimo',()=>{
       expect(minimo(1,5)).toBe(1)
     })
 
-    it.skip('minimo entre 1, 6,7, 8, 67, 77, 54, 5, -3',()=>{
-      expect(minimo([1, 6,7, 8, 67, 77, 54, 5, -3])).toBe(-3)
+    it.skip('minimo entre 1, 6, 7, 8, 67, 77, 54, 5, -3',()=>{
+      expect(minimo([1, 6, 7, 8, 67, 77, 54, 5, -3])).toBe(-3)
     })
     
 })
