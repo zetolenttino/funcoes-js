@@ -1,4 +1,4 @@
-const { expect } = require('@jest/globals')
+
 var idade = require('../src/idade')
 
 describe('idade', ()=>{
