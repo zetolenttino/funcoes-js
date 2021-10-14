@@ -1,10 +1,14 @@
-function minimo(a,b) {
-    if (typeof a === 'number') {
-        if (a < b) {
-            return a
+
+function minimo(array) {
+    let min = undefined
+    for (let num of array) {
+        if (min === undefined) {
+          min = num   
         } else {
-            return b
+          min = min < num ? min : num
         }
     }
+    return min
 }
+
 module.exports = minimo
