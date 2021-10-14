@@ -1,6 +1,6 @@
 var minimo = require ('../src/minimo')
 
-describe('minimo',()=>{
+describe('conjunto de testes para a função minimo',()=>{
 
     it('minimo entre 1 e 5',()=>{
       expect(minimo([1,5])).toBe(1)

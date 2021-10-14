@@ -1,0 +1,425 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`correio - aprendendo sobre recursividade exemplo com 2 cartões postais! 1`] = `
+"
+cartão postal 2 enviado com sucesso!
+chamando função novamente
+cartão postal 1 enviado com sucesso!
+todos os cartões foram enviados"
+`;
+
+exports[`correio - aprendendo sobre recursividade exemplo com 3 cartões postais! 1`] = `
+"
+cartão postal 3 enviado com sucesso!
+chamando função novamente
+cartão postal 2 enviado com sucesso!
+chamando função novamente
+cartão postal 1 enviado com sucesso!
+todos os cartões foram enviados"
+`;
+
+exports[`correio - aprendendo sobre recursividade exemplo com 200 cartões postais! 1`] = `
+"
+cartão postal 200 enviado com sucesso!
+chamando função novamente
+cartão postal 199 enviado com sucesso!
+chamando função novamente
+cartão postal 198 enviado com sucesso!
+chamando função novamente
+cartão postal 197 enviado com sucesso!
+chamando função novamente
+cartão postal 196 enviado com sucesso!
+chamando função novamente
+cartão postal 195 enviado com sucesso!
+chamando função novamente
+cartão postal 194 enviado com sucesso!
+chamando função novamente
+cartão postal 193 enviado com sucesso!
+chamando função novamente
+cartão postal 192 enviado com sucesso!
+chamando função novamente
+cartão postal 191 enviado com sucesso!
+chamando função novamente
+cartão postal 190 enviado com sucesso!
+chamando função novamente
+cartão postal 189 enviado com sucesso!
+chamando função novamente
+cartão postal 188 enviado com sucesso!
+chamando função novamente
+cartão postal 187 enviado com sucesso!
+chamando função novamente
+cartão postal 186 enviado com sucesso!
+chamando função novamente
+cartão postal 185 enviado com sucesso!
+chamando função novamente
+cartão postal 184 enviado com sucesso!
+chamando função novamente
+cartão postal 183 enviado com sucesso!
+chamando função novamente
+cartão postal 182 enviado com sucesso!
+chamando função novamente
+cartão postal 181 enviado com sucesso!
+chamando função novamente
+cartão postal 180 enviado com sucesso!
+chamando função novamente
+cartão postal 179 enviado com sucesso!
+chamando função novamente
+cartão postal 178 enviado com sucesso!
+chamando função novamente
+cartão postal 177 enviado com sucesso!
+chamando função novamente
+cartão postal 176 enviado com sucesso!
+chamando função novamente
+cartão postal 175 enviado com sucesso!
+chamando função novamente
+cartão postal 174 enviado com sucesso!
+chamando função novamente
+cartão postal 173 enviado com sucesso!
+chamando função novamente
+cartão postal 172 enviado com sucesso!
+chamando função novamente
+cartão postal 171 enviado com sucesso!
+chamando função novamente
+cartão postal 170 enviado com sucesso!
+chamando função novamente
+cartão postal 169 enviado com sucesso!
+chamando função novamente
+cartão postal 168 enviado com sucesso!
+chamando função novamente
+cartão postal 167 enviado com sucesso!
+chamando função novamente
+cartão postal 166 enviado com sucesso!
+chamando função novamente
+cartão postal 165 enviado com sucesso!
+chamando função novamente
+cartão postal 164 enviado com sucesso!
+chamando função novamente
+cartão postal 163 enviado com sucesso!
+chamando função novamente
+cartão postal 162 enviado com sucesso!
+chamando função novamente
+cartão postal 161 enviado com sucesso!
+chamando função novamente
+cartão postal 160 enviado com sucesso!
+chamando função novamente
+cartão postal 159 enviado com sucesso!
+chamando função novamente
+cartão postal 158 enviado com sucesso!
+chamando função novamente
+cartão postal 157 enviado com sucesso!
+chamando função novamente
+cartão postal 156 enviado com sucesso!
+chamando função novamente
+cartão postal 155 enviado com sucesso!
+chamando função novamente
+cartão postal 154 enviado com sucesso!
+chamando função novamente
+cartão postal 153 enviado com sucesso!
+chamando função novamente
+cartão postal 152 enviado com sucesso!
+chamando função novamente
+cartão postal 151 enviado com sucesso!
+chamando função novamente
+cartão postal 150 enviado com sucesso!
+chamando função novamente
+cartão postal 149 enviado com sucesso!
+chamando função novamente
+cartão postal 148 enviado com sucesso!
+chamando função novamente
+cartão postal 147 enviado com sucesso!
+chamando função novamente
+cartão postal 146 enviado com sucesso!
+chamando função novamente
+cartão postal 145 enviado com sucesso!
+chamando função novamente
+cartão postal 144 enviado com sucesso!
+chamando função novamente
+cartão postal 143 enviado com sucesso!
+chamando função novamente
+cartão postal 142 enviado com sucesso!
+chamando função novamente
+cartão postal 141 enviado com sucesso!
+chamando função novamente
+cartão postal 140 enviado com sucesso!
+chamando função novamente
+cartão postal 139 enviado com sucesso!
+chamando função novamente
+cartão postal 138 enviado com sucesso!
+chamando função novamente
+cartão postal 137 enviado com sucesso!
+chamando função novamente
+cartão postal 136 enviado com sucesso!
+chamando função novamente
+cartão postal 135 enviado com sucesso!
+chamando função novamente
+cartão postal 134 enviado com sucesso!
+chamando função novamente
+cartão postal 133 enviado com sucesso!
+chamando função novamente
+cartão postal 132 enviado com sucesso!
+chamando função novamente
+cartão postal 131 enviado com sucesso!
+chamando função novamente
+cartão postal 130 enviado com sucesso!
+chamando função novamente
+cartão postal 129 enviado com sucesso!
+chamando função novamente
+cartão postal 128 enviado com sucesso!
+chamando função novamente
+cartão postal 127 enviado com sucesso!
+chamando função novamente
+cartão postal 126 enviado com sucesso!
+chamando função novamente
+cartão postal 125 enviado com sucesso!
+chamando função novamente
+cartão postal 124 enviado com sucesso!
+chamando função novamente
+cartão postal 123 enviado com sucesso!
+chamando função novamente
+cartão postal 122 enviado com sucesso!
+chamando função novamente
+cartão postal 121 enviado com sucesso!
+chamando função novamente
+cartão postal 120 enviado com sucesso!
+chamando função novamente
+cartão postal 119 enviado com sucesso!
+chamando função novamente
+cartão postal 118 enviado com sucesso!
+chamando função novamente
+cartão postal 117 enviado com sucesso!
+chamando função novamente
+cartão postal 116 enviado com sucesso!
+chamando função novamente
+cartão postal 115 enviado com sucesso!
+chamando função novamente
+cartão postal 114 enviado com sucesso!
+chamando função novamente
+cartão postal 113 enviado com sucesso!
+chamando função novamente
+cartão postal 112 enviado com sucesso!
+chamando função novamente
+cartão postal 111 enviado com sucesso!
+chamando função novamente
+cartão postal 110 enviado com sucesso!
+chamando função novamente
+cartão postal 109 enviado com sucesso!
+chamando função novamente
+cartão postal 108 enviado com sucesso!
+chamando função novamente
+cartão postal 107 enviado com sucesso!
+chamando função novamente
+cartão postal 106 enviado com sucesso!
+chamando função novamente
+cartão postal 105 enviado com sucesso!
+chamando função novamente
+cartão postal 104 enviado com sucesso!
+chamando função novamente
+cartão postal 103 enviado com sucesso!
+chamando função novamente
+cartão postal 102 enviado com sucesso!
+chamando função novamente
+cartão postal 101 enviado com sucesso!
+chamando função novamente
+cartão postal 100 enviado com sucesso!
+chamando função novamente
+cartão postal 99 enviado com sucesso!
+chamando função novamente
+cartão postal 98 enviado com sucesso!
+chamando função novamente
+cartão postal 97 enviado com sucesso!
+chamando função novamente
+cartão postal 96 enviado com sucesso!
+chamando função novamente
+cartão postal 95 enviado com sucesso!
+chamando função novamente
+cartão postal 94 enviado com sucesso!
+chamando função novamente
+cartão postal 93 enviado com sucesso!
+chamando função novamente
+cartão postal 92 enviado com sucesso!
+chamando função novamente
+cartão postal 91 enviado com sucesso!
+chamando função novamente
+cartão postal 90 enviado com sucesso!
+chamando função novamente
+cartão postal 89 enviado com sucesso!
+chamando função novamente
+cartão postal 88 enviado com sucesso!
+chamando função novamente
+cartão postal 87 enviado com sucesso!
+chamando função novamente
+cartão postal 86 enviado com sucesso!
+chamando função novamente
+cartão postal 85 enviado com sucesso!
+chamando função novamente
+cartão postal 84 enviado com sucesso!
+chamando função novamente
+cartão postal 83 enviado com sucesso!
+chamando função novamente
+cartão postal 82 enviado com sucesso!
+chamando função novamente
+cartão postal 81 enviado com sucesso!
+chamando função novamente
+cartão postal 80 enviado com sucesso!
+chamando função novamente
+cartão postal 79 enviado com sucesso!
+chamando função novamente
+cartão postal 78 enviado com sucesso!
+chamando função novamente
+cartão postal 77 enviado com sucesso!
+chamando função novamente
+cartão postal 76 enviado com sucesso!
+chamando função novamente
+cartão postal 75 enviado com sucesso!
+chamando função novamente
+cartão postal 74 enviado com sucesso!
+chamando função novamente
+cartão postal 73 enviado com sucesso!
+chamando função novamente
+cartão postal 72 enviado com sucesso!
+chamando função novamente
+cartão postal 71 enviado com sucesso!
+chamando função novamente
+cartão postal 70 enviado com sucesso!
+chamando função novamente
+cartão postal 69 enviado com sucesso!
+chamando função novamente
+cartão postal 68 enviado com sucesso!
+chamando função novamente
+cartão postal 67 enviado com sucesso!
+chamando função novamente
+cartão postal 66 enviado com sucesso!
+chamando função novamente
+cartão postal 65 enviado com sucesso!
+chamando função novamente
+cartão postal 64 enviado com sucesso!
+chamando função novamente
+cartão postal 63 enviado com sucesso!
+chamando função novamente
+cartão postal 62 enviado com sucesso!
+chamando função novamente
+cartão postal 61 enviado com sucesso!
+chamando função novamente
+cartão postal 60 enviado com sucesso!
+chamando função novamente
+cartão postal 59 enviado com sucesso!
+chamando função novamente
+cartão postal 58 enviado com sucesso!
+chamando função novamente
+cartão postal 57 enviado com sucesso!
+chamando função novamente
+cartão postal 56 enviado com sucesso!
+chamando função novamente
+cartão postal 55 enviado com sucesso!
+chamando função novamente
+cartão postal 54 enviado com sucesso!
+chamando função novamente
+cartão postal 53 enviado com sucesso!
+chamando função novamente
+cartão postal 52 enviado com sucesso!
+chamando função novamente
+cartão postal 51 enviado com sucesso!
+chamando função novamente
+cartão postal 50 enviado com sucesso!
+chamando função novamente
+cartão postal 49 enviado com sucesso!
+chamando função novamente
+cartão postal 48 enviado com sucesso!
+chamando função novamente
+cartão postal 47 enviado com sucesso!
+chamando função novamente
+cartão postal 46 enviado com sucesso!
+chamando função novamente
+cartão postal 45 enviado com sucesso!
+chamando função novamente
+cartão postal 44 enviado com sucesso!
+chamando função novamente
+cartão postal 43 enviado com sucesso!
+chamando função novamente
+cartão postal 42 enviado com sucesso!
+chamando função novamente
+cartão postal 41 enviado com sucesso!
+chamando função novamente
+cartão postal 40 enviado com sucesso!
+chamando função novamente
+cartão postal 39 enviado com sucesso!
+chamando função novamente
+cartão postal 38 enviado com sucesso!
+chamando função novamente
+cartão postal 37 enviado com sucesso!
+chamando função novamente
+cartão postal 36 enviado com sucesso!
+chamando função novamente
+cartão postal 35 enviado com sucesso!
+chamando função novamente
+cartão postal 34 enviado com sucesso!
+chamando função novamente
+cartão postal 33 enviado com sucesso!
+chamando função novamente
+cartão postal 32 enviado com sucesso!
+chamando função novamente
+cartão postal 31 enviado com sucesso!
+chamando função novamente
+cartão postal 30 enviado com sucesso!
+chamando função novamente
+cartão postal 29 enviado com sucesso!
+chamando função novamente
+cartão postal 28 enviado com sucesso!
+chamando função novamente
+cartão postal 27 enviado com sucesso!
+chamando função novamente
+cartão postal 26 enviado com sucesso!
+chamando função novamente
+cartão postal 25 enviado com sucesso!
+chamando função novamente
+cartão postal 24 enviado com sucesso!
+chamando função novamente
+cartão postal 23 enviado com sucesso!
+chamando função novamente
+cartão postal 22 enviado com sucesso!
+chamando função novamente
+cartão postal 21 enviado com sucesso!
+chamando função novamente
+cartão postal 20 enviado com sucesso!
+chamando função novamente
+cartão postal 19 enviado com sucesso!
+chamando função novamente
+cartão postal 18 enviado com sucesso!
+chamando função novamente
+cartão postal 17 enviado com sucesso!
+chamando função novamente
+cartão postal 16 enviado com sucesso!
+chamando função novamente
+cartão postal 15 enviado com sucesso!
+chamando função novamente
+cartão postal 14 enviado com sucesso!
+chamando função novamente
+cartão postal 13 enviado com sucesso!
+chamando função novamente
+cartão postal 12 enviado com sucesso!
+chamando função novamente
+cartão postal 11 enviado com sucesso!
+chamando função novamente
+cartão postal 10 enviado com sucesso!
+chamando função novamente
+cartão postal 9 enviado com sucesso!
+chamando função novamente
+cartão postal 8 enviado com sucesso!
+chamando função novamente
+cartão postal 7 enviado com sucesso!
+chamando função novamente
+cartão postal 6 enviado com sucesso!
+chamando função novamente
+cartão postal 5 enviado com sucesso!
+chamando função novamente
+cartão postal 4 enviado com sucesso!
+chamando função novamente
+cartão postal 3 enviado com sucesso!
+chamando função novamente
+cartão postal 2 enviado com sucesso!
+chamando função novamente
+cartão postal 1 enviado com sucesso!
+todos os cartões foram enviados"
+`;
+
+exports[`correio - aprendendo sobre recursividade exemplo sem cartões postais! 1`] = `undefined`;
